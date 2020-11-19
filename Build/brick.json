@@ -1,0 +1,17 @@
+{
+"companyName": "JolinCompany",
+"productName": "Brick terminator",
+"productVersion": "0.1",
+"dataUrl": "brick.data.unityweb",
+"wasmCodeUrl": "brick.wasm.code.unityweb",
+"wasmFrameworkUrl": "brick.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "brick.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
